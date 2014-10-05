@@ -1,0 +1,1 @@
+More information can be found here: https://saxenarajat99.wordpress.com/2014/10/05/facial-recognition-using-python-and-opencv/
